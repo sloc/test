@@ -1,4 +1,6 @@
 -- lets practice with git
 -- second change
 -- THIS is the entries for the new branch
+-- lets xxxxXck what has changed in the code between the android versions
 -- lets check what has changed in the code between the android versions
+-- 3. part: creating conflicts
