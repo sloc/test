@@ -1,2 +1,4 @@
 -- lets practice with git
 -- second change
+-- THIS is the entries for the new branch
+-- lets check what has changed in the code between the android versions
